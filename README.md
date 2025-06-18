@@ -1,13 +1,16 @@
+<img src="https://profile-counter.glitch.me/ephrimgnanam/count.svg">
 
+[![GitHub followers](https://img.shields.io/github/followers/ephrimgnanam.svg?style=social&label=Followers)](https://github.com/ephrimgnanam?tab=followers)
 
-### 🤵 About Me:
-- 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.java```,``` .py```, ```.sql```
-- 🌱 I’m currently learning docker and kubernetes
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
-- 😄 Pronouns: He/Him
-- 📝 I regulary write articles on [hashnode](https://apoorvtyagi.tech/) (previously on [blogger](https://apoorvtyagi133.blogspot.com/))
-- 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games
-- ⚡ Fun fact: Je connais un peu le français
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ephrim!;)](https://git.io/typing-svg)
+
+<h3> Here's some fun facts about me: </h3>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+
+✔ Callme: ***He/His*** or ***Kingpin*** 😊 <br>
+✔ I’m an aspiring malware analyst and devloper<br>
+✔ Fun fact : *I Always want to become an Oligrach in Nuclear ⚛️ Weapon Industry* 😎<br><br><br><br>
+
+---
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=312v2tiaapawzxnkh6gc5xuea77a)
 
