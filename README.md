@@ -8,13 +8,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ephrim!;)](https://git.io/typing-svg)
 
 <h3> Here's some fun facts about me: </h3>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
 ✔ Callme: ***He/His*** or ***Kingpin*** 😊 <br>
 ✔ I’m an aspiring malware analyst and devloper<br>
-✔ Fun fact : *I Always want to become an Oligrach in Nuclear ⚛️ Weapon Industry* 😎<br><br><br><br>
-![Snake animation](https://github.com/ephrimgnanam/blob/output/github-contribution-grid-snake.svg)
+✔ Music and Militarty Industarial Complex Lover<br>
+✔ Visit: https://www.h0lystrike.com/<br>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=312v2tiaapawzxnkh6gc5xuea77a)
 
 
