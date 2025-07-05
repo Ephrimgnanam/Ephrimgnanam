@@ -10,7 +10,7 @@
 <h3> Here's some fun facts about me: </h3>
 ✔ Callme: ***He/His*** or ***Kingpin*** 😊 <br>
 ✔ I’m an aspiring malware analyst and devloper<br>
-✔ Music and Militarty Industarial Complex Lover<br>
+✔ Music and Military Industarial Complex Lover<br>
 ✔ Visit: https://www.h0lystrike.com/<br>
 
 
